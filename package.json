@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/mikemorton72/modern-javascript#readme",
   "dependencies": {
+    "mathjs": "^9.4.4",
     "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.44.0",
+    "webpack-cli": "^4.7.2"
   }
 }
